@@ -1,0 +1,13 @@
+//solution of ASCII Value 
+#include <iostream>
+using namespace std;
+
+int main(){
+char n;
+cin>>n;
+int j=n;
+if(j>='a'||j<='z')
+cout<<j;
+
+    return 0;
+}
